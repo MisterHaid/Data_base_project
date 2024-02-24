@@ -1,0 +1,92 @@
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\DataBaseCourseWork.exe.config
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\DataBaseCourseWork.exe
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\DataBaseCourseWork.pdb
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Npgsql.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Buffers.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Memory.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Text.Json.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Threading.Channels.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.ValueTuple.dll
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Npgsql.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Buffers.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Memory.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Text.Json.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Threading.Channels.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.ValueTuple.xml
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.csproj.AssemblyReference.cache
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.Form1.resources
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.Properties.Resources.resources
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.csproj.GenerateResource.cache
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.csproj.CopyComplete
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.exe
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.pdb
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.ManageClientsForm.resources
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.ManageContractsForm.resources
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.ManageEmployeesForm.resources
+C:\Users\ariga\source\repos\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.ManageObjectTypesForm.resources
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\DataBaseCourseWork.exe.config
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\DataBaseCourseWork.exe
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\DataBaseCourseWork.pdb
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Npgsql.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Buffers.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Collections.Immutable.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Memory.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Text.Json.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Threading.Channels.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.ValueTuple.dll
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\Npgsql.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Buffers.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Collections.Immutable.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Memory.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Text.Json.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Threading.Channels.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\bin\Debug\System.ValueTuple.xml
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.csproj.AssemblyReference.cache
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.Form1.resources
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.ManageClientsForm.resources
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.ManageContractsForm.resources
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.ManageEmployeesForm.resources
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.ManageObjectTypesForm.resources
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.Properties.Resources.resources
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.csproj.GenerateResource.cache
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.csproj.CopyComplete
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.exe
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.pdb
+C:\Users\haida\OneDrive\Рабочий стол\Study\4 курс\Базы данных\базы данных\DataBaseCourseWork\DataBaseCourseWork\obj\Debug\DataBaseCourseWork.AboutBox1.resources
